@@ -4,7 +4,7 @@
 
  Not: Henüz tüm scriptleri yazmadım zamanla eklenecektir.
  
- Not 2: videoda kullanılan öğeler Stickman klasöründedir.
+ Not 2: https://youtu.be/LdXPzhhEcnY videoda kullanılan öğeler Stickman klasöründedir.
   
 
 YETENEKLER
