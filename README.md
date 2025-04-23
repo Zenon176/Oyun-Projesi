@@ -11,7 +11,7 @@ YETENEKLER
 
   Yetenekler; göz, gövde, kollar, bacaklar ve çekirdek olarak 5 farklı bölüme ayrılıyor. Yetenekler ve açıklamaları şu şekilde;
 
-# GÖZ
+# Göz Yetenekleri
   
 - Navigasyon
 
