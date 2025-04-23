@@ -9,7 +9,9 @@
 
 YETENEKLER
 
-  Yetenekler; göz, gövde, kollar, bacaklar ve çekirdek olarak 5 farklı bölüme ayrılıyor. Yetenekler ve açıklamaları şu şekilde;
+  Yetenekler göz, gövde, kollar, bacaklar ve çekirdek olarak 5 farklı bölüm, silahlar ise kılıç ve tabanca modülleri olmak üzere 2 bölüm içeriyor.
+  
+  Yetenekler ve açıklamaları şu şekilde;
 
 # Göz Yetenekleri
   
